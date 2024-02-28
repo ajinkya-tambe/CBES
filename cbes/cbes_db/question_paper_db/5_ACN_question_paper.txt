@@ -1,0 +1,96 @@
+5_ACN_Q_1. Internet Control Message Protocol (ICMP) has been designed to compensate _________
+5_ACN_A_1. Error-reporting
+5_ACN_A_12. Error-correction
+5_ACN_A_13. Host and management queries
+5_ACN_A_14*. All of the mentioned
+**********************************************
+5_ACN_Q_2. Header size of the ICMP message is _________
+5_ACN_A_1*. 8-bytes
+5_ACN_A_2. 8-bits
+5_ACN_A_3. 16-bytes
+5_ACN_A_4. 16-bits
+**********************************************
+5_ACN_Q_3. During error reporting, ICMP always reports error messages to ________
+5_ACN_A_1. Destination
+5_ACN_A_2*. Source
+5_ACN_A_3. Next router
+5_ACN_A_4. Previous router
+**********************************************
+5_ACN_Q_4. Which of these is not a type of error-reporting message?
+5_ACN_A_1. Destination unreachable
+5_ACN_A_2. Source quench
+5_ACN_A_3*. Router error
+5_ACN_A_4. Time exceeded
+**********************************************
+5_ACN_Q_5. The source-quench message in ICMP was designed to add a kind of ____________ to the IP.
+5_ACN_A_1. error control
+5_ACN_A_2*. flow control
+5_ACN_A_3. router control
+5_ACN_A_4. switch control
+**********************************************
+5_ACN_Q_6. In case of time exceeded error, when the datagram visits a router, the value of time to live field is _________
+5_ACN_A_1. Remains constant
+5_ACN_A_2. Decremented by 2
+5_ACN_A_3. Incremented by 1
+5_ACN_A_4*. Decremented by 1
+**********************************************
+5_ACN_Q_7. During debugging, we can use the ____________ program to find if a host is alive and responding.
+5_ACN_A_1. traceroute
+5_ACN_A_2. shell
+5_ACN_A_3*. ping
+5_ACN_A_4. java
+**********************************************
+5_ACN_Q_8. In windows ____________ can be used to trace the route of the packet from the source to the destination.
+5_ACN_A_1. traceroute
+5_ACN_A_2*. tracert
+5_ACN_A_3. ping
+5_ACN_A_4. locater
+**********************************************
+5_ACN_Q_9. In asymmetric key cryptography, the private key is kept by __________
+5_ACN_A_1. sender
+5_ACN_A_2*. receiver
+5_ACN_A_3. sender and receiver
+5_ACN_A_4. all the connected devices to the network
+**********************************************
+5_ACN_Q_10. In cryptography, the order of the letters in a message is rearranged by __________
+5_ACN_A_1*. transpositional ciphers
+5_ACN_A_2. substitution ciphers
+5_ACN_A_3. both transpositional ciphers and substitution ciphers
+5_ACN_A_4. quadratic ciphers
+**********************************************
+5_ACN_Q_11. Open Shortest Path First (OSPF) is also called as _____________
+5_ACN_A_1*. Link state protocol
+5_ACN_A_2. Error-correction protocol
+5_ACN_A_3. Routing information protocol
+5_ACN_A_4. Border gateway protocol
+**********************************************
+5_ACN_Q_12. MAC address is of ___________
+5_ACN_A_1. 24 bits
+5_ACN_A_2. 36 bits
+5_ACN_A_3. 42 bits
+5_ACN_A_4*. 48 bits
+**********************************************
+5_ACN_Q_13. High speed ethernet works on _________
+5_ACN_A_1. coaxial cable
+5_ACN_A_2. twisted pair cable
+5_ACN_A_3*. optical fiber
+5_ACN_A_4. unshielded twisted pair cable
+**********************************************
+5_ACN_Q_14. The maximum size of payload field in ethernet frame is __________
+5_ACN_A_1. 1000 bytes
+5_ACN_A_2. 1200 bytes
+5_ACN_A_3. 1300 bytes
+5_ACN_A_4*. 1500 bytes
+**********************************************
+5_ACN_Q_15. Which multiple access technique is used by IEEE 802.11 standard for wireless LAN?
+5_ACN_A_1. CDMA
+5_ACN_A_2*. CSMA/CA
+5_ACN_A_3. ALOHA
+5_ACN_A_4. CSMA/CD
+**********************************************
+5_ACN_Q_16. In wireless distribution system __________
+5_ACN_A_1*. multiple access point are inter-connected with each other
+5_ACN_A_2. there is no access point
+5_ACN_A_3. only one access point exists
+5_ACN_A_4. access points are not required
+**********************************************

@@ -1,0 +1,132 @@
+5_Java_Q_1. Who invented Java Programming?
+5_Java_A_1. Guido van Rossum
+5_Java_A_2*. James Gosling
+5_Java_A_3. Dennis Ritchie
+5_Java_A_4. Bjarne Stroustrup
+**********************************************
+5_Java_Q_2. Which component is used to compile, debug and execute the java programs?
+5_Java_A_1. JRE
+5_Java_A_2. JIT
+5_Java_A_3*. JDK
+5_Java_A_4. JVM
+**********************************************
+5_Java_Q_3. Which of the following is not an OOPS concept in Java?
+5_Java_A_1. Polymorphism
+5_Java_A_2. Inheritance
+5_Java_A_3*. Compilation
+5_Java_A_4. Encapsulation
+**********************************************
+5_Java_Q_4. Which exception is thrown when java is out of memory?
+5_Java_A_1. MemoryError
+5_Java_A_2*.OutOfMemoryError
+5_Java_A_3. MemoryOutOfBoundsException
+5_Java_A_4. MemoryFullException
+**********************************************
+5_Java_Q_5. Which of these keywords is used to define interfaces in Java?
+5_Java_A_1. intf
+5_Java_A_2. Intf
+5_Java_A_3*. interface
+5_Java_A_4. Interface
+**********************************************
+5_Java_Q_6. Which of these class is a superclass of every class in Java?
+5_Java_A_1. ArrayList class
+5_Java_A_2*. Abstract class
+5_Java_A_3. Object class
+5_Java_A_4. String class
+**********************************************
+5_Java_Q_7. Which of these keywords can be used to prevent Method overriding in Java?
+5_Java_A_1*. final
+A5_Java_A_2. protected
+5_Java_A_3. static
+5_Java_A_4. constant
+**********************************************
+5_Java_Q_8. Which one of the following is not an access modifier?
+5_Java_A_1. Protected
+5_Java_A_2*. Void
+5_Java_A_3. Public
+5_Java_A_4. Private
+**********************************************
+5_Java_Q_9. Which of these method of String class is used to obtain character at specified index?
+5_Java_A_1. char()
+5_Java_A_2. Charat()
+5_Java_A_3. charat()
+5_Java_A_4*. charAt()
+**********************************************
+5_Java_Q_10. Which of these keywords is used to refer to member of base class from a subclass?
+5_Java_A_1. upper
+5_Java_A_2*. super
+5_Java_A_3. this
+5_Java_A_4. none of the mentioned
+**********************************************
+5_Java_Q_11. Which of these can be used to differentiate two or more methods having the same name?
+5_Java_A_1*. Parameters data type
+5_Java_A_2*. Number of parameters
+5_Java_A_3*. Return type of method
+5_Java_A_4. None of the mentioned
+**********************************************
+5_Java_Q_12. Which of these data type can be used for a method having a return statement in it?
+5_Java_A_1. void
+5_Java_A_2*. int
+5_Java_A_3*. float
+5_Java_A_4. None
+**********************************************
+5_Java_Q_13. Which of this method is given parameter via command line arguments?
+5_Java_A_1*. main()
+5_Java_A_2. recursive() method
+5_Java_A_3. Any method
+5_Java_A_4. System defined methods
+**********************************************
+5_Java_Q_14. Which of these data types is used to store command line arguments?
+5_Java_A_1. Array
+5_Java_A_2. Stack
+5_Java_A_3*. String
+5_Java_A_4. Integer
+**********************************************
+5_Java_Q_15. Which of these operators is used to allocate memory to array variable in Java?
+5_Java_A_1. malloc
+5_Java_A_2. alloc
+5_Java_A_3*. new
+5_Java_A_4. new malloc
+**********************************************
+5_Java_Q_16. Which of these is an incorrect array declaration?
+5_Java_A_1. int arr[] = new int[5]
+5_Java_A_2. int [] arr = new int[5]
+5_Java_A_3. int arr[] = new int[5]
+5_Java_A_4*. int arr[] = int [5] new
+**********************************************
+5_Java_Q_17. What is the output of relational operators?
+5_Java_A_1. Integer
+5_Java_A_2*. Boolean
+5_Java_A_3. Characters
+5_Java_A_4. Double
+**********************************************
+5_Java_Q_18. Which of these operators can skip evaluating right hand operand?
+5_Java_A_1. !
+5_Java_A_2. |
+5_Java_A_3. &
+5_Java_A_4*. &&
+**********************************************
+5_Java_Q_19. Which of the following loops will execute the body of loop even when condition controlling the loop is initially false?
+5_Java_A_1*. do-while
+5_Java_A_2. while
+5_Java_A_3. for
+5_Java_A_4. none of the mentioned
+**********************************************
+5_Java_Q_20. When does method overloading is determined?
+5_Java_A_1. At run time
+5_Java_A_2*. At compile time
+5_Java_A_3. At coding time
+5_Java_A_4. At execution time
+**********************************************
+5_Java_Q_21. Which component is responsible for converting bytecode into machine specific code?
+5_Java_A_1*. JVM
+5_Java_A_2. JDK
+5_Java_A_3. JIT
+5_Java_A_4. JRE
+**********************************************
+5_Java_Q_22. Which component is responsible to run java program?
+5_Java_A_1. JVM
+5_Java_A_2. JDK
+5_Java_A_3. JIT
+5_Java_A_4*. JRE
+**********************************************
